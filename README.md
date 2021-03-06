@@ -6,7 +6,7 @@ Purpose of this Project :\
 
 Files:\
 Avito_scraping/avito_cars/avito_cars/spiders/av_cars.py : the main code of scraping data.\
-Femme.csv : Contains data about women's products.\
-Jumia_sports : Contains data about sport's products.
+test.csv : Contains the way the collected data will looks like.\
+
 
 

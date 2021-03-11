@@ -7,12 +7,12 @@ The building of the machine learning model will be implemented in another projec
 
 # dataset:
 The dataset collected in the CSV file named `test.csv`, which contains the following columns:\
-'car_city' : The name of city where is the car sold.\
-'car_cv_man_auto': how many Horsepower the car have. \
-'car_equipements': Car equipements.\
-'car_information	': Some information about the car.\
-'car_name': The car name.\
-'car_price': The car price.\
+ 'car_city' : The name of city where is the car sold.\
+ 'car_cv_man_auto': Horsepower of the car and being automatic or manual.\
+ 'car_equipements': Car equipements.\
+ 'car_information	': Some information about the car.\
+ 'car_name': The car name.\
+ 'car_price': The car price.\
 Purpose of this Project :\
 Collect data in order to have data to predict price of used cars. 
 

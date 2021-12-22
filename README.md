@@ -3,7 +3,7 @@ I collected data from "https://www.avito.ma/fr/maroc/voitures-%C3%A0_vendre" and
 
 I'm trying to collect data of cars from an e-commerce site in order to build a machine learning model which predict prices of used cars.\
 In this project, i will just do the scraping using scrapy from python.\
-The building of the machine learning model will be implemented in another project.\
+The building of the machine learning model will be implemented in another project.
 
 # dataset:
 The dataset collected in the CSV file named `test.csv`, which contains the following columns:\
